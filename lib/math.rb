@@ -15,9 +15,9 @@ mul = num1 * num2
 end
 
 def modulo(num1, num2)
-mod = 
+mod = num1 % num2
 end
 
 def square_root(num)
-
+sr = 
 end
